@@ -8,7 +8,7 @@ const AboutUs = () => {
         {/* Logo and Creator Section */}
         <div className="flex flex-col items-center mb-12">
           <img 
-            src="/public/images/favicon.jpg" 
+            src="/images/favicon.jpg" 
             alt="Nivesh Labs Logo" 
             className="w-32 h-32 mb-4"
           />

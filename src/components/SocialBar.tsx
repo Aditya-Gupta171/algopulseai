@@ -7,7 +7,7 @@ const SocialBar = () => {
       <div className="container mx-auto px-4 py-3">
         <div className="flex flex-wrap items-center justify-center gap-4 md:gap-6">
           <a 
-            href="https://web.telegram.org/a/#-1002123222988" 
+            href="https://t.me/AlgoPulse_ai_Trade" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-foreground/70 hover:text-primary transition-colors"
