@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary;
+}
+
+.nav-link {
+  @apply text-foreground/70 hover:text-foreground transition-colors;
+}
+
+.btn-primary {
+  @apply bg-primary hover:bg-primary/90 text-foreground px-6 py-3 rounded-lg transition-colors;
+}
+
+.feature-card {
+  @apply bg-muted p-6 rounded-xl hover:scale-105 transition-transform duration-300;
+}
