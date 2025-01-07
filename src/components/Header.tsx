@@ -35,7 +35,7 @@ const Header = () => {
               <a href="#contact" className="nav-link">Contact Us</a>
               <div className="absolute hidden group-hover:block w-48 right-0 mt-2 py-2 bg-background border border-muted rounded-lg shadow-lg">
                 <a 
-                  href="https://web.telegram.org/a/#-1002123222988" 
+                  href="https://t.me/AlgoPulse_ai_Trade" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="block px-4 py-2 hover:bg-muted"
