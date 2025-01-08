@@ -66,7 +66,7 @@ const Header = () => {
               <a href="#pricing" className="nav-link">Pricing</a>
               <Link to="/about" className="nav-link">About Us</Link>
               <a 
-                href="https://web.telegram.org/a/#-1002123222988" 
+                href="https://t.me/AlgoPulse_ai_Trade" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="nav-link"

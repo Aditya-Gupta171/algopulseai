@@ -59,7 +59,7 @@ const tiers = [
 
 const Pricing = () => {
   const handleGetStarted = () => {
-    window.open('https://web.telegram.org/a/#-1002123222988', '_blank');
+    window.open('https://t.me/niveshlabs', '_blank');
   };
 
   return (
