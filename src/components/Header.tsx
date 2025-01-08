@@ -9,7 +9,7 @@ const Header = () => {
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
   const handleGetStarted = () => {
-    window.open('https://web.telegram.org/a/#-1002123222988', '_blank');
+    window.open('https://t.me/AlgoPulse_ai_Trade', '_blank');
   };
 
   return (
